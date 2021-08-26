@@ -1,7 +1,7 @@
  
 # read-me-generator
 ## Description
-An application where you run node.js and questions are asked of your project. It is a command-line application that creates read-mea professional red-me file that is clean and quick.
+An application that allows the user to create a professional read.me efficiently.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,9 +10,9 @@ An application where you run node.js and questions are asked of your project. It
 * [License](#license)
 * [Questions](#questions)
 ## Installation
-npm init, util, inquirer
+npm init and inquirer
 ## Usage 
-in the intergrated terminal run node index.js
+run node index.js in the integrated terminal
 ## Contributors
 maythingo
 ## Test
@@ -22,3 +22,6 @@ GPL_3.0
 ## Questions 
  GitHub Username: maythingo
 Email Address:maythingo@aim.com
+
+Video link: https://youtu.be/qcnHiB-xH1Q
+Github: https://github.com/maythingo
